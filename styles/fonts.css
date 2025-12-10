@@ -45,7 +45,7 @@
 }
 
 @font-face {
-  font-family: UnileverShilling;
+  font-family: 'Unilever Shilling';
   src: url('/fonts/UnileverShilling.woff2') format('woff2'),
        url('/fonts/UnileverShilling.woff') format('woff');
   font-weight: normal;
@@ -55,7 +55,7 @@
 }
 
 @font-face {
-  font-family: UnileverShilling;
+  font-family: 'Unilever Shilling';
   src: url('/fonts/UnileverShilling-Bd.woff2') format('woff2'),
        url('/fonts/UnileverShilling-Bd.woff') format('woff');
   font-weight: bold;
@@ -65,7 +65,7 @@
 }
 
 @font-face {
-  font-family: UnileverShilling;
+  font-family: 'Unilever Shilling';
   src: url('/fonts/UnileverShilling-Md.woff2') format('woff2'),
        url('/fonts/UnileverShilling-Md.woff') format('woff');
   font-weight: 500;
@@ -75,7 +75,7 @@
 }
 
 @font-face {
-  font-family: UnileverShilling;
+  font-family: 'Unilever Shilling';
   src: url('/fonts/UnileverShilling-It.woff2') format('woff2'),
        url('/fonts/UnileverShilling-It.woff') format('woff');
   font-weight: normal;
